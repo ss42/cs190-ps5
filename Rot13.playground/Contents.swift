@@ -121,7 +121,7 @@ class Rot13: CryptoSystem {
     }
 }
 
-//http://www.dotnetperls.com/rot13-swift
+//Rot 13 function from http://www.dotnetperls.com/rot13-swift by Sam Allen.
 
 /*:
 The rest of this file contains the unit tests that run automatically as you edit the code. You shouldn't have to mess with the unit tests unless I made a mistake writing them.
